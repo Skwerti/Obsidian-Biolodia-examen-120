@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "429065fcba1e5b91",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e1ddb466dddb7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4726b67a5af135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology(exam)(Каширин124)/Б48. Биология.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Б48. Биология"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d0a5cb422d5e146",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab496bfb5d50e377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f863ba23b4af54ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "39f3b61142a38e46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c85c97480e3ffb0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7de6fa218b741f90",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b58e3d6c486566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dac99c7a0c596e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "ebeb0159301c40f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "4e5f678c98122324",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "62ff4353dbe42471",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "970971af4a0ead27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "cd4726b67a5af135",
+  "lastOpenFiles": [
+    "Biology(exam)(Каширин124)/Б49. Биология.md",
+    "Biology(exam)(Каширин124)/Б47 Биология.md",
+    "Biology(exam)(Каширин124)/Б46 Биология.md",
+    "Biology(exam)(Каширин124)/Б45 Биология.md",
+    "Biology(exam)(Каширин124)/Б44. Биология.md",
+    "Biology(exam)(Каширин124)/Б43. Биология.md",
+    "Biology(exam)(Каширин124)/Б42. Биология.md",
+    "Biology(exam)(Каширин124)/Б41. Биология.md",
+    "Biology(exam)(Каширин124)/Б40. Биология.md",
+    "Biology(exam)(Каширин124)/Б39. Биология.md",
+    "Biology(exam)(Каширин124)/Б38. Биология.md",
+    "Biology(exam)(Каширин124)/Б37. Биология.md",
+    "Biology(exam)(Каширин124)/Б36. Биология.md",
+    "Biology(exam)(Каширин124)/Б35. Биология.md",
+    "Biology(exam)(Каширин124)/Б34. Биология.md",
+    "Biology(exam)(Каширин124)/Б33. Биология.md",
+    "Biology(exam)(Каширин124)/Б32. Биология.md",
+    "Biology(exam)(Каширин124)/Б31. Биология.md",
+    "Biology(exam)(Каширин124)/Б30. Биология.md",
+    "Biology(exam)(Каширин124)/Б29. Биология.md",
+    "Biology(exam)(Каширин124)/Б28. Биология.md",
+    "Biology(exam)(Каширин124)/Б27. Биология.md",
+    "Biology(exam)(Каширин124)/Б26. Биология.md",
+    "Biology(exam)(Каширин124)/Б25. Биология.md",
+    "Biology(exam)(Каширин124)/Б24. Биология.md",
+    "Biology(exam)(Каширин124)/Б23. Биология.md",
+    "photos/e87da4e41a299ae23087c4d699d9931d64.jpg",
+    "photos/Pasted image 20260301180523.png",
+    "photos/brushnaia_polost_brushina-1.jpg",
+    "photos/Понятие ТКАНИ. ЭПИТЕЛИИ_Часть 1.pdf",
+    "photos/КРОВЬ и ЛИМФА_Часть 1.pdf",
+    "photos/1000007936.jpg",
+    "photos/36_Фрагмент волокна поперечно-полосатой скелетной мышечной ткани.pdf",
+    "photos/37_Миосателитоцит скелетного МВ (поперечное сечение).pdf",
+    "photos/41_Безмиелиновое нервное волокно.pdf",
+    "photos/66_Красная пульпа селезенки.pdf",
+    "photos/89_Примордиальный фолликул яичника.pdf",
+    "photos/92_Оплодотворение.pdf",
+    "photos/59_Респираторный эпителий 1.pdf",
+    "photos/i.webp",
+    "photos/slide-7.jpg",
+    "photos/brushnaia_polost_brushina-2a.jpg",
+    "photos/Ткани внутренней среды.pdf",
+    "photos/1000007935.jpg"
+  ]
+}

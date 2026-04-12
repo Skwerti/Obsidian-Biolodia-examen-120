@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "(Б1-Б15)",
+      "color": {
+        "a": 1,
+        "rgb": 5111552
+      }
+    },
+    {
+      "query": "(Б16-Б30)",
+      "color": {
+        "a": 1,
+        "rgb": 3080062
+      }
+    },
+    {
+      "query": "(Б31-Б45)",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "(Б46-Б60)",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "(Б61-Б75)",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "(Б76-Б90)",
+      "color": {
+        "a": 1,
+        "rgb": 35388
+      }
+    },
+    {
+      "query": "(Б91-Б105)",
+      "color": {
+        "a": 1,
+        "rgb": 9355776
+      }
+    },
+    {
+      "query": "(Б106-Б120)",
+      "color": {
+        "a": 1,
+        "rgb": 13230162
+      }
+    },
+    {
+      "query": "Словарь(История России)",
+      "color": {
+        "a": 1,
+        "rgb": 16731469
+      }
+    },
+    {
+      "query": "Anatomia",
+      "color": {
+        "a": 1,
+        "rgb": 16761692
+      }
+    },
+    {
+      "query": "Цитология",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "Вопросы к зачету по праву",
+      "color": {
+        "a": 1,
+        "rgb": 6244892
+      }
+    },
+    {
+      "query": "Вопросы для промежуточной аттестации по биоорганической химии",
+      "color": {
+        "a": 1,
+        "rgb": 16099583
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.3125,
+  "repelStrength": 10.3125,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.08262960750003578,
+  "close": true
+}

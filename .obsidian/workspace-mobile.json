@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b9793e19d2829c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "690c42dea9673776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678c31f16616e35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology(exam)/Б1. Биология – наука о живых системах, закономерностях и механизмах и...вехи становления и развития медицинской биологии. Методы биологии..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Б1. Биология – наука о живых системах, закономерностях и механизмах и...вехи становления и развития медицинской биологии. Методы биологии."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c38aa5e87c8d2298",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69030626f134cdf9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "0251edae41d7ad53",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "f0e977ce773903d7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "439e52d92979d7fd",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Все свойства"
+        }
+      },
+      {
+        "id": "8d7d97c844a28b76",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b39de4166fee7540",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed30067b7c6c1fd3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "db6436d34eee5c96",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "587d4b16ef0d1785",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "678c31f16616e35d",
+  "lastOpenFiles": [
+    "History of Russia/Внешняя политика СССР в 1930-е годы.md",
+    "History of Russia/7. Советско-финская война.md",
+    "History of Russia/Вопрос 17. Внешняя политика СССР в 1920-1930-е гг..md",
+    "History of Russia/1. Внешнеполитический курс СССР и деятельность Коминтерна по созданию единого антифашистского фронта.md",
+    "Game/Задачи на неделю.md",
+    "History of Russia/Внешняя политика СССР в 1930-е годы общее.md",
+    "History of Russia/Внешняя политика СССР в 1920-е годы.md",
+    "Biology(exam)/Б1. Биология – наука о живых системах, закономерностях и механизмах и...вехи становления и развития медицинской биологии. Методы биологии..md",
+    "Biology(exam)/Основные вехи становления и развития медицинской биологии.md",
+    "Biology(exam)/Словарь(Б1-Б15).md",
+    "Без названия.md"
+  ]
+}
